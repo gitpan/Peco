@@ -1,0 +1,17 @@
+abstract: Light Inversion of Control container
+author: Richard Hundt <richard@hive-systems.com>
+build_requires: 
+  Test::More: 0
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: artistic
+name: Peco
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Carp: 0
+  Class::Accessor::Fast: 0
+  Scalar::Util: 0
+version: 1.0
